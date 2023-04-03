@@ -1,0 +1,2 @@
+This module generates the current rol and column coordinates to match the V_sync and h_sync signals for a specific VGA protocol.
+Use www.tinyvga.com/vga-timing or https://tomverbeure.github.io/video_timings_calculator for a table of common VGA display timings.
