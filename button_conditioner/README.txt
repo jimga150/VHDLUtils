@@ -1,0 +1,2 @@
+This module is a combination metastablity remover, debouncer, and edge detector for mechanical button and switch inputs. 
+It can be used for simple single-bit clock crossing if you want to just use the metastability registers.
